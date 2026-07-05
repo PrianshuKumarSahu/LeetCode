@@ -6,7 +6,7 @@ public:
         int end = n-1;
         int ans = -1;
         for (int i = 0; i<n; i++){
-            int mid = (st+end)/2;
+            int mid = st + (end-st)/2; // (st+end)/2 , both are same 
             if (target > nums[mid]){
                 st = mid+1;
             }else if (target < nums[mid]){
