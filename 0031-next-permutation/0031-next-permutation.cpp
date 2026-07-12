@@ -2,7 +2,7 @@ class Solution {
 public:
     void nextPermutation(vector<int>& A) {
         // find the pivot O(n)
-        int pivot = -1, n = A.size();
+        /*int pivot = -1, n = A.size();
         for (int i=n-2 ; i>=0 ; i--){
             if (A[i] < A[i+1]){
                 pivot = i;
@@ -28,6 +28,8 @@ public:
         int i = pivot+1, j=n-1;
         while (i <= j){
             swap(A[i++], A[j--]);
-        }
+        }*/
+
+        next_permutation(A.begin(), A.end());
     }
 };
