@@ -2,8 +2,8 @@ class Solution {
 public:
     void nextPermutation(vector<int>& A) {
         // find the pivot O(n)
-        /*int pivot = -1, n = A.size();
-        for (int i=n-2 ; i>=0 ; i--){
+        int pivot = -1, sz = A.size();
+        for (int i=sz-2 ; i>=0 ; i--){
             if (A[i] < A[i+1]){
                 pivot = i;
                 break;
@@ -16,20 +16,20 @@ public:
         }
 
         //find the 2nd largest element O(n)
-        for (int i=n-1 ; i > pivot ; i--){
+        for (int i=sz-1 ; i > pivot ; i--){
             if (A[i] > A[pivot]){
                 swap(A[i], A[pivot]);
                 break;
             }
         }
 
-        // reverse the (piv + 1 to n-1)
+        // reverse the (piv + 1 to sz-1)
         // reverse (A.begin() + piviot+1 , A.end())
-        int i = pivot+1, j=n-1;
+        int i = pivot+1, j=sz-1;
         while (i <= j){
             swap(A[i++], A[j--]);
-        }*/
+        }
 
-        next_permutation(A.begin(), A.end());
+        //next_permutation(A.begin(), A.end());
     }
 };
