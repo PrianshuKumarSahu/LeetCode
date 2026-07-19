@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1025-divisor-game](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
