@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1025-divisor-game](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -149,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
