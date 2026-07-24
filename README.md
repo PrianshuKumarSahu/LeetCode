@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0567-permutation-in-string) |
