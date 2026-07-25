@@ -1,19 +1,16 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& arr) {
-        int slow = arr[0], fast = arr[0];
+        unordered_set<int> s;
 
-        do{
-            slow = arr[slow];
-            fast = arr[arr[fast]];
-        }while (slow != fast);
+        for(int val : arr){
+            if(s.find(val) != s.end()) {
+                return val;
+            }
 
-        slow = arr[0];
-
-        while(slow != fast){
-            slow = arr[slow];
-            fast = arr[fast];
+            s.insert(val);
         }
-        return slow;
+
+        return -1;
     }
 };
