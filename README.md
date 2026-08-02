@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
