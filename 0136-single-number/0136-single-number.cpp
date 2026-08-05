@@ -1,9 +1,9 @@
 class Solution {
 public:
-    int singleNumber(vector<int>& nums) {
+    int singleNumber(vector<int>& number) {
         int ans = 0;
-        for (int val: nums){
-            ans ^=val;
+        for (int value: number){
+            ans ^=value;
         }
         return ans;
     }
