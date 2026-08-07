@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
