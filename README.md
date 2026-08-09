@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0054-spiral-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0078-subsets) |
@@ -206,5 +210,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
