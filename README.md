@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0263-ugly-number) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0344-reverse-string) |
