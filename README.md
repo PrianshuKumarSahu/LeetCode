@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
