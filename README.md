@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0078-subsets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
