@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     // Function to set entire row and column to 0 if an element in the matrix is 0 (Optimal O(1) space)
     void setZeroes(vector<vector<int>>& matrix) {
@@ -61,15 +61,16 @@ public:
         }
     }
 };
+*/
 
-/*class Solution {
+class Solution {
 public:
     // Function to set entire row and column to 0 if an element in the matrix is 0
-    void setZeroes(vector<vector<int>>& matrix) {
+    void setZeroes(vector<vector<int>>& mat) {
         // Get number of rows
-        int m = matrix.size();
+        int m = mat.size();
         // Get number of columns
-        int n = matrix[0].size();
+        int n = mat[0].size();
 
         // Create row marker array
         vector<int> row(m, 0);
@@ -80,7 +81,7 @@ public:
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 // If element is zero, mark its row and column
-                if (matrix[i][j] == 0) {
+                if (mat[i][j] == 0) {
                     row[i] = 1;
                     col[j] = 1;
                 }
@@ -92,13 +93,13 @@ public:
             for (int j = 0; j < n; j++) {
                 // If the row or column is marked, set cell to zero
                 if (row[i] == 1 || col[j] == 1) {
-                    matrix[i][j] = 0;
+                    mat[i][j] = 0;
                 }
             }
         }
     }
 };
-*/
+
 
 /*class Solution {
 public:
