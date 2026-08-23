@@ -17,18 +17,18 @@ public:
         }*/
         
     
-        int freq=0, ans=0;              //Optimal approach
+        int freq=0, answer=0;              //Optimal approach
         for (int i=0; i<n; i++){           // Dutch national flag algo
             if (freq == 0){
-                ans = nums[i];
+                answer = nums[i];
             }
-            if (ans == nums[i]){
+            if (answer == nums[i]){
                 freq++;
             }else{
                 freq--;
             }
         }
-        return ans;
+        return answer;
 
         return 0;
     }
