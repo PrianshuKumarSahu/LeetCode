@@ -1,41 +1,53 @@
 class Solution {
 public:
-    bool isValid(vector<int>& arr, int m, int mid, int n){
-        int k = 1, num = 0;
-        for (int i=0; i<n; i++){
-            if (arr[i] > mid){
-                return false;
+    int noStudent(vector<int> &arr, long long pages){
+        int stuCnt = 1;
+        long long pageStudent = 0;
+        for (int i = 0; i<arr.size(); i++){
+            if(arr[i] > pages){
+                return INT_MAX;
             }
-            if (num + arr[i] <= mid){
-                num += arr[i];
-            }else{
-                k++;
-                num = arr[i];
+            if (pageStudent + arr[i] <= pages){
+                pageStudent += arr[i];
+            }
+            else{
+                stuCnt += 1;
+                pageStudent = arr[i];
             }
         }
-        return k > m ? false : true;
+        return stuCnt;
+        
+    }
+  
+    int findPages(vector<int> &arr, int k) {
+        
+        if (k>arr.size()) return -1;
+        
+        long long mini = INT_MAX;
+        long long maxi = 0;
+        for(int i = 0; i< arr.size(); i++){
+            maxi += arr[i];
+            mini = min(mini, (long long)arr[i]);
+        }
+        
+        long long low = mini;
+        long long high = maxi;
+        int count;
+        
+        while(low <= high){
+            long long mid = low + (high - low)/2;
+            count = noStudent(arr, mid);
+            if (count <= k){
+                high = mid - 1;
+            }
+            else{
+                low = mid + 1;
+            }
+        }
+        return low;
     }
 
-    int splitArray(vector<int>& arr, int m) {
-        int n = arr.size();
-        if (m>n){
-            return -1;
-        }
-        int sum = 0;
-        for (int i=0 ; i<n ; i++){
-            sum += arr[i];
-        }
-        int ans = -1;
-        int st = 0, end = sum;
-        while ( st <= end){
-            int mid = st + (end-st)/2;
-            if (isValid(arr ,m ,mid ,n)){
-                ans = mid;
-                end = mid-1;
-            }else{
-                st = mid+1;
-            }
-        }
-        return ans;
+    int splitArray(vector<int>& nums, int k) {
+        return (findPages(nums, k));
     }
 };
