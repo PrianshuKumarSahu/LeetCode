@@ -215,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
