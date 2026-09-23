@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0189-rotate-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0131-palindrome-partitioning) |
