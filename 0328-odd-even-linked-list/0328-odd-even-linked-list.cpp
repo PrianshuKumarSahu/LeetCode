@@ -14,30 +14,52 @@ public:
         if (head == NULL || head -> next == NULL){
             return head;
         }
+        ListNode* odd = head;
+        ListNode* even = head -> next;
+        ListNode* evenHead = even;
+        while (even && even -> next != NULL){
+            odd -> next = odd -> next -> next;
+            even -> next = even -> next -> next;
 
-        vector <int> arr;
-        ListNode* temp = head;
-        while(temp && temp -> next != NULL){
-            arr.push_back(temp -> val);
-            temp = temp -> next -> next;
+            odd = odd -> next;
+            even = even -> next;
         }
-        if (temp) arr.push_back(temp -> val);
-
-        temp = head -> next;
-        while (temp && temp -> next != NULL){
-            arr.push_back(temp -> val);
-            temp = temp -> next -> next;
-        }
-        if (temp) arr.push_back(temp -> val);
-
-        temp = head;
-        int i = 0;
-        while (temp){
-            temp -> val = arr[i];
-            i++;
-            temp = temp -> next;
-        }
+        odd -> next = evenHead;
 
         return head;
+
+
+
+        // if (head == NULL || head -> next == NULL){
+        //     return head;
+        // }
+
+        // vector <int> arr;
+        // ListNode* temp = head;
+        // while(temp && temp -> next != NULL){
+        //     arr.push_back(temp -> val);
+        //     temp = temp -> next -> next;
+        // }
+        // if (temp) arr.push_back(temp -> val);
+
+        // temp = head -> next;
+        // while (temp && temp -> next != NULL){
+        //     arr.push_back(temp -> val);
+        //     temp = temp -> next -> next;
+        // }
+        // if (temp) arr.push_back(temp -> val);
+
+        // temp = head;
+        // int i = 0;
+        // while (temp){
+        //     temp -> val = arr[i];
+        //     i++;
+        //     temp = temp -> next;
+        // }
+
+        // return head;
+
+
+
     }
 };
