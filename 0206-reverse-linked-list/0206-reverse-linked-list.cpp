@@ -13,19 +13,32 @@ public:
     ListNode* reverseList(ListNode* head) {
 
         // BRUTE FORCE
-        stack <int> st;
-        ListNode* temp = head;
-        while (temp){
-            st.push(temp -> val);
-            temp = temp -> next;
-        }
+        // stack <int> st;
+        // ListNode* temp = head;
+        // while (temp){
+        //     st.push(temp -> val);
+        //     temp = temp -> next;
+        // }
 
-        temp = head;
-        while(temp){
-            temp -> val = st.top();
-            st.pop();
-            temp = temp -> next;
+        // temp = head;
+        // while(temp){
+        //     temp -> val = st.top();
+        //     st.pop();
+        //     temp = temp -> next;
+        // }
+
+        // return head;
+
+        ListNode* temp = head;
+        ListNode* prev = NULL;
+        ListNode* front;
+        while (temp) {
+            front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
         }
+        head = prev;
 
         return head;
     }
