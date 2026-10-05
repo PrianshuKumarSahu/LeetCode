@@ -29,17 +29,28 @@ public:
 
         // return head;
 
-        ListNode* temp = head;
-        ListNode* prev = NULL;
-        ListNode* front;
-        while (temp) {
-            front = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = front;
-        }
-        head = prev;
+        // ITERATIVE SOLUTION
+        //  ListNode* temp = head;
+        //  ListNode* prev = NULL;
+        //  ListNode* front;
+        //  while (temp) {
+        //      front = temp->next;
+        //      temp->next = prev;
+        //      prev = temp;
+        //      temp = front;
+        //  }
+        //  head = prev;
 
-        return head;
+        // return head;
+
+        // RECURSIVE
+        if (head == NULL || head->next == NULL) {
+            return head;
+        }
+        ListNode* newHead = reverseList(head->next);
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = NULL;
+        return newHead;
     }
 };
