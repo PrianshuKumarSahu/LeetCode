@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2769-find-the-maximum-achievable-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0054-spiral-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
