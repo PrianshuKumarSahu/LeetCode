@@ -32,7 +32,7 @@ public:
 
     }
 
-    bool helper(vector<vector<char>> &board, int row, int col){
+    bool helping(vector<vector<char>> &board, int row, int col){
 
         if(row == 9){
             return true;
@@ -45,14 +45,14 @@ public:
         }
 
         if(board[row][col] != '.'){
-            return helper(board, nextRow, nextCol);
+            return helping(board, nextRow, nextCol);
         }
 
         //place the digit
         for(char dig='1'; dig<='9'; dig++){
             if(isSafe(board, row, col, dig)){
                 board[row][col] = dig;
-                if(helper(board, nextRow, nextCol)){
+                if(helping(board, nextRow, nextCol)){
                     return true;
                 }
                 board[row][col] = '.';
@@ -62,6 +62,6 @@ public:
     }
 
     void solveSudoku(vector<vector<char>>& board) {
-        helper(board, 0, 0);
+        helping(board, 0, 0);
     }
 };
