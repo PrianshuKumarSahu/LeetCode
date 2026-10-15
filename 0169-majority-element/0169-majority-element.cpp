@@ -18,7 +18,7 @@ public:
         
     
         int freq=0, answer=0;              //Optimal approach
-        for (int i=0; i<n; i++){           // Dutch national flag algo
+        for (int i=0; i<n; i++){           // Moore's voting algo
             if (freq == 0){
                 answer = nums[i];
             }
