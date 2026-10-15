@@ -17,19 +17,22 @@ public:
         }*/
         
     
-        int freq=0, answer=0;              //Optimal approach
-        for (int i=0; i<n; i++){           // Moore's voting algo
-            if (freq == 0){
-                answer = nums[i];
-            }
-            if (answer == nums[i]){
-                freq++;
-            }else{
-                freq--;
-            }
-        }
-        return answer;
+        // int freq=0, answer=0;              //Optimal approach
+        // for (int i=0; i<n; i++){           // Moore's voting algo
+        //     if (freq == 0){
+        //         answer = nums[i];
+        //     }
+        //     if (answer == nums[i]){
+        //         freq++;
+        //     }else{
+        //         freq--;
+        //     }
+        // }
+        // return answer;
 
-        return 0;
+        // return 0;
+
+        sort(nums.begin(),nums.end());
+        return nums[n/2];
     }
 };
