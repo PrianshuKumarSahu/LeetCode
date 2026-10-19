@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrianshuKumarSahu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
